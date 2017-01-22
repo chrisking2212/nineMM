@@ -1,4 +1,4 @@
 import ui
 
-gui = ui.UI()
+gui = ui.Board(600, 600)
 gui.start()
