@@ -99,7 +99,7 @@ class Board:
                             self.set_pawn(coords)
 
                             # reply
-                            self.play_move()
+                            # self.play_move()
                             print "ok"
                             break
 
