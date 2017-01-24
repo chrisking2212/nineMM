@@ -97,6 +97,7 @@ class Board:
 
                         if w-self.wstep/3 < pos[0] < w+self.wstep/3 and h-self.hstep/3 < pos[1] < h+self.hstep/3:
                             self.set_pawn(coords)
+
                             # reply
                             self.play_move()
                             print "ok"
