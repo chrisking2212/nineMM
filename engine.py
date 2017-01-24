@@ -94,5 +94,5 @@ board = np.matrix([[0, 3, 3, 0, 3, 3, 0],
                    [3, 2, 3, 1, 3, 2, 3],
                    [0, 3, 3, 1, 3, 3, 0]])
 
-evaluate(2, board)
+evaluate(1, board)
 
